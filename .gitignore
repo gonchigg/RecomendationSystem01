@@ -1,4 +1,4 @@
 data/*.csv
 data/parsed/*.pkl
 models/probabilistic/*
-predictions/*
+predictions/*.pkl
