@@ -1,4 +1,6 @@
 data/*.csv
 data/parsed/*.pkl
 models/probabilistic/*
+models/dnn/*
 predictions/*.pkl
+model.png
